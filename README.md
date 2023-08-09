@@ -1,1 +1,1 @@
-# QA
+# This repo include a practice of the QA and a theory of the QA
